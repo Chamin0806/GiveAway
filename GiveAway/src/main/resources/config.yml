@@ -1,0 +1,5 @@
+reward:
+  money: 1000
+
+broadcast_message: '핫타임이 시작되어 {player_count}명의 플레이어께서 보상을 획득했습니다!'
+individual_message: '{player} 님! 핫타임으로 {money}원을 받았습니다!'

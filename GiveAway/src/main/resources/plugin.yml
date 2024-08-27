@@ -1,0 +1,9 @@
+name: GiveAway
+version: '1.0-SNAPSHOT'
+main: com.leaf.giveAway.GiveAway
+api-version: '1.20'
+commands:
+  giveawayadmin:
+  giveaway:
+    aliases:
+      - 핫타임
